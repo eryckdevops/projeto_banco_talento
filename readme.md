@@ -35,10 +35,12 @@
 
 ## tecnologias usadas:
 
-![MySQL](https://img.icons8.com/ios/452/mysql.png)
-![Node.js](https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png)
-![React.js](https://cdn.iconscout.com/icon/free/png-512/react-4-1175110.png)
-![TypeScript](https://img.icons8.com/color/452/typescript.png)
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://img.icons8.com/ios/452/mysql.png" alt="MySQL" width="100" height="100">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" alt="Node.js" width="100" height="100">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/react-4-1175110.png" alt="React.js" width="100" height="100">
+    <img src="https://img.icons8.com/color/452/typescript.png" alt="TypeScript" width="100" height="100">
+</div>
 
 
 ## 🤝 Desenvolvedor
